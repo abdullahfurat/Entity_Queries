@@ -1,0 +1,15 @@
+C:\Users\abdullah.furat\source\repos\Entity_Queries\bin\Debug\Entity_Queries.exe.config
+C:\Users\abdullah.furat\source\repos\Entity_Queries\bin\Debug\Entity_Queries.exe
+C:\Users\abdullah.furat\source\repos\Entity_Queries\bin\Debug\Entity_Queries.pdb
+C:\Users\abdullah.furat\source\repos\Entity_Queries\bin\Debug\EntityFramework.dll
+C:\Users\abdullah.furat\source\repos\Entity_Queries\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abdullah.furat\source\repos\Entity_Queries\bin\Debug\EntityFramework.xml
+C:\Users\abdullah.furat\source\repos\Entity_Queries\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abdullah.furat\source\repos\Entity_Queries\obj\Debug\Entity_Queries.csprojAssemblyReference.cache
+C:\Users\abdullah.furat\source\repos\Entity_Queries\obj\Debug\Entity_Queries.Form1.resources
+C:\Users\abdullah.furat\source\repos\Entity_Queries\obj\Debug\Entity_Queries.Properties.Resources.resources
+C:\Users\abdullah.furat\source\repos\Entity_Queries\obj\Debug\Entity_Queries.csproj.GenerateResource.cache
+C:\Users\abdullah.furat\source\repos\Entity_Queries\obj\Debug\Entity_Queries.csproj.CoreCompileInputs.cache
+C:\Users\abdullah.furat\source\repos\Entity_Queries\obj\Debug\Entity_Queries.csproj.CopyComplete
+C:\Users\abdullah.furat\source\repos\Entity_Queries\obj\Debug\Entity_Queries.exe
+C:\Users\abdullah.furat\source\repos\Entity_Queries\obj\Debug\Entity_Queries.pdb
