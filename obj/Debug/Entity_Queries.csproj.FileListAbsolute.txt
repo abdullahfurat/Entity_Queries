@@ -13,3 +13,4 @@ C:\Users\abdullah.furat\source\repos\Entity_Queries\obj\Debug\Entity_Queries.csp
 C:\Users\abdullah.furat\source\repos\Entity_Queries\obj\Debug\Entity_Queries.csproj.CopyComplete
 C:\Users\abdullah.furat\source\repos\Entity_Queries\obj\Debug\Entity_Queries.exe
 C:\Users\abdullah.furat\source\repos\Entity_Queries\obj\Debug\Entity_Queries.pdb
+C:\Users\abdullah.furat\source\repos\Entity_Queries\obj\Debug\Entity_Queries.Form2.resources
